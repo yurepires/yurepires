@@ -7,13 +7,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-    <img margin="0 auto" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg">
-    <img margin="0 auto" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="C">
-    <img margin="0 auto" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img margin="0 auto" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img margin="0 auto" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img margin="0 auto" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img margin="0 auto" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <a>
+        <img margin="0 auto" src="https://skillicons.dev/icons?i=java,spring,js,nodejs,express,html,css,react,bootstrap,tailwindcss,prisma,vite,python,c,mysql,mongodb,git,github,vscode,idea&theme=light">
+    </a>
 </div>
 
 ##
