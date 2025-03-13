@@ -8,7 +8,7 @@
 
 <div style="display: inline_block"><br>
     <a>
-        <img margin="0 auto" src="https://skillicons.dev/icons?i=java,spring,hibernate,js,nodejs,express,html,css,react,bootstrap,tailwindcss,prisma,vite,postman,python,c,mysql,mongodb,git,github,vscode,idea&theme=light">
+        <img margin="0 auto" src="https://skillicons.dev/icons?i=java,spring,hibernate,js,nodejs,express,html,css,react,bootstrap,tailwindcss,prisma,vite,postman,python,c,mysql,postgresql,mongodb,git,github,vscode,idea&theme=light">
     </a>
 </div>
 
