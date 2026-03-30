@@ -2,7 +2,7 @@
 
 <div>
     <a href="https://github.com/yurepires"></a>
-    ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yurepires)
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yurepires"/>
 </div>
 
 <div style="display: inline_block"><br>
