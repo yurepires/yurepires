@@ -2,8 +2,7 @@
 
 <div>
     <a href="https://github.com/yurepires"></a>
-    <img height=180em src="https://github-readme-stats.vercel.app/api?username=yurepires&theme=algolia&show_icons=true&hide_border=false&count_private=true">
-    <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurepires&theme=algolia&show_icons=true&hide_border=false&layout=compact">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurepires)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div style="display: inline_block"><br>
