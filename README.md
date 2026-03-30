@@ -2,7 +2,7 @@
 
 <div>
     <a href="https://github.com/yurepires"></a>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurepires)](https://github.com/anuraghazra/github-readme-stats)
+    ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yurepires)
 </div>
 
 <div style="display: inline_block"><br>
