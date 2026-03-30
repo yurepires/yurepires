@@ -3,7 +3,6 @@
 <div>
     <a href="https://github.com/yurepires"></a>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yurepires&show_icons=true&theme=prussian"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurepires&layout=compact&theme=prussian" />
 </div>
 
 <div style="display: inline_block"><br>
